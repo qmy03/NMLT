@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T17:44:05.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="olEVM_DYrudXVtbMtVHq" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T17:47:06.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="v2cIKb-HqkpzPt6QY0yV" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1477" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="563" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -85,7 +85,7 @@
         <mxCell id="I91ViXZcUyba7LbL-aHq-30" value="Kết thúc" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="570" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I91ViXZcUyba7LbL-aHq-32" value="Bài4: Nhập số nguyên dương n.Tính tổng các ước của n." style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="I91ViXZcUyba7LbL-aHq-32" value="Nhập số nguyên dương n.Tính tổng các ước của n." style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="550" height="50" as="geometry" />
         </mxCell>
       </root>
